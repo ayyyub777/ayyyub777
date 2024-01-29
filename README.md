@@ -34,4 +34,4 @@ Passionate software developer who loves turning ideas into reality through codin
 <a href="https://www.linkedin.com/in/ayoub-bigharassine/">
   <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
-&nbsp;|&nbsp;Let's connect
+|&nbsp;Let's connect
